@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\game.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\ghost.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\ghost_red_move_script.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\main.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\map.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\pacman_obj.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_game.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_menu.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_menu_object.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_settings.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\shared.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\utility.c">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\game.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\ghost.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\map.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\pacman_obj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_game.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_menu.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_menu_object.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\scene_settings.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\shared.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Src\utility.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\ghost_flee.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\ghost_move_blue.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\ghost_move_orange.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\ghost_move_pink.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\ghost_move_red.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\pacman_die.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\pacman_generalSprites.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\pacman_move.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\pacman_tile.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\pacman_tile_cut.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\settings.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\settings2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\title.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_bigger_1.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_bigger_2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_smaller_1.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_smaller_2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_mute_1.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\volumn_mute_2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\game_over.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Assets\ghost_dead.png">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\map_nthu.txt">
+      <Filter>資源檔</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\Minecraft.ttf">
+      <Filter>資源檔</Filter>
+    </Font>
+    <Font Include="C:\Users\liuza\OneDrive\桌面\hackthon\Final_Codes\Assets\OpenSans-Regular.ttf">
+      <Filter>資源檔</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
